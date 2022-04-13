@@ -1,6 +1,6 @@
 # web-scraping
 
-Beautiful Soup web scraping practice./n
+Beautiful Soup web scraping practice.
 
 
 Beautiful Soup Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
