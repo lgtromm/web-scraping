@@ -4,4 +4,5 @@ Beautiful Soup web scraping practice.
 
 
 Beautiful Soup Documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 CSS Selector Reference: https://www.w3schools.com/cssref/css_selectors.asp
